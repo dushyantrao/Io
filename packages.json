@@ -1,0 +1,13 @@
+{
+    "name":"Io",
+    "version":"1.0.0",
+    "description":"CLI chat application",
+    "author":"Dushyant Rao",
+    "dependencies":{
+        "socket.io":"latest",
+        "socket.io-client":"latest",
+        "ansi-color":"latest"
+    },
+    "private": true
+
+}
